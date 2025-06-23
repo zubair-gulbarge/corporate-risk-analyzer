@@ -15,3 +15,5 @@ beautifulsoup4
 pdfminer.six
 xgboost
 joblib
+fastapi
+uvicorn
