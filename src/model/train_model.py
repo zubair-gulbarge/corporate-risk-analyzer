@@ -41,3 +41,6 @@ def train():
 
 if __name__ == "__main__":
     train()
+
+# df = pd.read_csv("data/cleaned_data.csv")
+# print(df.columns.tolist())
