@@ -1,0 +1,17 @@
+### 🐍 `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+pdfminer.six
+```
