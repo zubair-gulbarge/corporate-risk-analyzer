@@ -1,6 +1,5 @@
 ### 🐍 `requirements.txt`
 
-```txt
 pandas
 numpy
 scikit-learn
@@ -14,4 +13,5 @@ streamlit
 requests
 beautifulsoup4
 pdfminer.six
-```
+xgboost
+joblib
